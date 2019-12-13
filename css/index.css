@@ -22,6 +22,10 @@ nav {
     font-family: 'Eczar', serif;
 }
 
+.navbar-nav {
+  flex-direction: row;
+}
+
 h1 {
   margin: 0;
 }
